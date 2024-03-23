@@ -142,3 +142,58 @@ Example:
 > Here are 7 “smart” sounding pieces of advice that are actually stupid:"
 >
 > S - Sense Check: Do you understand the objective and the specific guidelines for this task?
+
+1. APE: Action, Purpose, Expectation
+   - **Action:** Define the job or activity to be done.
+   - **Purpose:** Discuss the intention or goal.
+   - **Expectation:** State the desired outcome.
+
+2. RACE: Role, Action, Context, Expectation
+   - **Role:** Specify the role of ChatGPT.
+   - **Action:** Detail what action is needed.
+   - **Context:** Provide relevant details of the situation.
+   - **Expectation:** Describe the expected outcome.
+
+3. COAST: Context, Objective, Actions, Scenario, Task
+   - **Context:** Set the stage for the conversation.
+   - **Objective:** Describe the goal.
+   - **Actions:** Explain the actions needed.
+   - **Scenario:** Describe the scenario.
+   - **Task:** Describe the task.
+
+4. TAG: Task, Action, Goal
+   - **Task:** Define the specific task.
+   - **Action:** Describe what needs to be done.
+   - **Goal:** Explain the end goal.
+
+5. RISE: Role, Input, Steps, Expectation
+   - **Role:** Specify the role of ChatGPT.
+   - **Input:** Describe the information or resources.
+   - **Steps:** Ask for detailed steps.
+   - **Expectation:** Describe the desired result.
+
+6. TRACE: Task, Request, Action, Context, Example
+   - **Task:** Define the specific task.
+   - **Request:** Describe what you are asking for.
+   - **Action:** State the action you need.
+   - **Context:** Provide the context or situation.
+   - **Example:** Give an example to illustrate your point.
+
+7. ERA: Expectation, Role, Action
+   - **Expectation:** Describe the desired result.
+   - **Role:** Specify the role of ChatGPT.
+   - **Action:** Specify what actions need to be taken.
+
+8. CARE: Context, Action, Result, Example
+   - **Context:** Set the stage or context for the discussion.
+   - **Action:** Describe what you want to be done.
+   - **Result:** Describe the desired outcome.
+   - **Example:** Give an example to illustrate your point.
+
+9. ROSES: Role, Objective, Scenario, Expected Solution, Steps
+   - **Role:** Specify ChatGPT's role.
+   - **Objective:** State the goal or aim.
+   - **Scenario:** Describe the situation.
+   - **Solution:** Define the desired outcome.
+   - **Steps:** Ask for actions needed to reach the solution.
+
