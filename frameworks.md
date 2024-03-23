@@ -33,6 +33,7 @@ Prompt Template:
 Example:
 
 > "How do I improve my sales calls? I've only got a 15% close rate right now, and I think it's because I'm not selling the dream enough.
+> 
 > Let's think through it step-by-step."
 
 # RISEN
@@ -47,21 +48,32 @@ The RISEN framework provides a structured approach to dissect complex or constra
 
 Prompt Template:
 
-> "Role: [insert the role you want AI to take.] 
+> "Role: [insert the role you want AI to take.]
+> 
 > Main Task: [Insert the task you want AI to complete.]
+> 
 > Steps to complete task: [Insert numbered list of steps to follow.]
+> 
 > Goal: [Insert goal of the output]
+> 
 > Constraints: [Enter constraints]."
 
 Example:
 
 > "Role: You are an expert digital course builder who has sold millions in online courses.
+> 
 > Main Task: Please give me a list of EVERYTHING important that I should include in my AI course and tell me all the different methods of growth I can implement to maximise revenue.
+> 
 > Steps to complete the task:
+> 
 > 1. First start by covering all the things that ANY digital course should include. 
+>
 > 2. Then proceed by giving your thoughts on what AI courses should include. 
+>
 > 3. End with covering the best growth marketing tactics and strategies for digital courses.
+>
 > Goal: The goal is to give me a concise list of everything I should include within the course, as well as give me ideas on how I can maximize the revenue from my course.
+
 > Constraints: Maximum of 500 words. - Avoid technical jargon. - Make it actionable - Make it clear"
 
 # RODES
@@ -77,9 +89,13 @@ While this is similar to the above prompt, this one is better used whenever you 
 Prompt template:
 
 > R - Role: [Insert desired role you want AI to take.]
+>
 > O - Objective: [Insert objective you want AI to do.]
+>
 > D - Details: [Insert any context or constraints AI needs to create a good output]
+>
 > E - Examples: Here are good examples you can use to model your answer. [ Insert examples of good outputs ]
+>
 > S - Sense Check: Do you understand the objective and the specific guidelines for this task?
 
 Example:
