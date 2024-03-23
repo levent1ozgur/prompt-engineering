@@ -79,8 +79,7 @@ Prompt template:
 > R - Role: [Insert desired role you want AI to take.]
 > O - Objective: [Insert objective you want AI to do.]
 > D - Details: [Insert any context or constraints AI needs to create a good output]
-> E - Examples: Here are good examples you can use to model your answer.
-> [Insert examples of good outputs]
+> E - Examples: Here are good examples you can use to model your answer. [ Insert examples of good outputs ]
 > S - Sense Check: Do you understand the objective and the specific guidelines for this task?
 
 Example:
