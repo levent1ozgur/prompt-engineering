@@ -101,18 +101,33 @@ Prompt template:
 Example:
 
 > R - Role: You are a seasoned copywriter specialized in crafting viral tweets.
+> 
 > O - Objective: Write a twitter hook that aims to go viral on the topic of Marketing. 
+>
 > D - Details: - The tweet should be no longer than 280 characters.
+>
 > - Use powerful and persuasive language.
+>
 > - Do not include hashtags or emojis.
+> 
 > E - Examples: Here are some examples you should use to model your answer (note - these are not on my desired topic. I just want you to understand the frameworks and styles that work")
+>
 > 1."Credit card debt is killing your financial progress.
+>
 > Here's how you get rid of it ASAP:"
+>
 > 2. "The most valuable Twitter feature you aren't using: 
+> 
 > Advanced search.
+>
 > Knowing how to use it will help you find the hidden gems of the Twitter archives and 10x your Twitter experience.
+>
 > Here's the step-by-step guide:"
+>
 > 3. "99% of business advice is terrible.
+> 
 > I’ve consulted hundreds of CEOs and made a list of widely accepted wisdom that you should ignore. 
+>
 > Here are 7 “smart” sounding pieces of advice that are actually stupid:"
+>
 > S - Sense Check: Do you understand the objective and the specific guidelines for this task?
