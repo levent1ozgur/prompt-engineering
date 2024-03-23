@@ -30,6 +30,7 @@ All you have to do is add the simple phrase “Let’s think step-by-step” at 
 Prompt Template:
 
 > "[insert your prompt instructions].
+> 
 > Let's think through it step-by-step."
 
 Example:
@@ -41,9 +42,13 @@ Example:
 # RISEN
 
 R - Role
+
 I - Instructions
+
 S - Steps
+
 E - End goal
+
 N - Narrowing
 
 The RISEN framework provides a structured approach to dissect complex or constrained tasks, such as blog posts or research projects, into actionable components for better execution and focus.
@@ -81,9 +86,13 @@ Example:
 # RODES
 
 R - Role
+
 O - Objective
+
 D - Details
+
 E - Examples
+
 S - Sense Check
 
 While this is similar to the above prompt, this one is better used whenever you have good examples of your desired output.
