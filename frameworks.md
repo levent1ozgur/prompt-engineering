@@ -1,7 +1,9 @@
 # The RTF framework
 
 R - Role
+
 T - Task
+
 F - Format
 
 The "R-T-F" prompt framework categorizes requests into Roles, Tasks, and Formats for clearer communication.
