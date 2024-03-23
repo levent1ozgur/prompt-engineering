@@ -15,3 +15,24 @@ Prompt Template:
 Example:
 
 > "Act like a life coach with 30 years of experience in mentoring. Give me a plan to improve my work-life balance in table format."
+
+
+# Chain of thought
+
+The chain of thought prompt framework is one that improves LLM’s reasoning by telling AI to go through a problem step-by-step.
+
+This makes it especially good for problem-solving or complex analytical tasks.
+
+All you have to do is add the simple phrase “Let’s think step-by-step” at the end of your prompt.
+
+Prompt Template:
+
+> "[insert your prompt instructions].
+>
+> Let's think through it step-by-step."
+
+Example:
+
+> "How do I improve my sales calls? I've only got a 15% close rate right now, and I think it's because I'm not selling the dream enough.
+>
+> Let's think through it step-by-step."
