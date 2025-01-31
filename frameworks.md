@@ -1,4 +1,4 @@
-## The RTF framework
+## The RTF framework 
 
 **R** - Role  
 **T** - Task  
@@ -16,7 +16,7 @@ This is the jack-of-all-trades prompt and can be used for most use cases, even n
 
 "Act like a life coach with 30 years of experience in mentoring. Give me a plan to improve my work-life balance in table format."
 
-## Chain of thought
+## Chain of thought 
 
 The chain of thought prompt framework is one that improves LLM’s reasoning by telling AI to go through a problem step-by-step.
 
@@ -38,7 +38,7 @@ Let's think through it step-by-step."
 
 ---
 
-## RISEN
+## RISEN 
 
 **R** - Role  
 **I** - Instructions  
@@ -68,8 +68,8 @@ Goal: The goal is to give me a concise list of everything I should include withi
 Constraints: Maximum of 500 words. - Avoid technical jargon. - Make it actionable - Make it clear"
 
 ---
-
-## RODES
+ 
+## RODES 
 
 **R** - Role  
 **O** - Objective  
@@ -244,6 +244,59 @@ Would you like me to rank them based on different use cases (e.g., creative writ
 
 ---
 
+## DeepSeek (Deepthink R1) response:
+
+After analyzing the various prompt frameworks, the **RODES framework (Role, Objective, Details, Examples, Sense Check)** emerges as the most clear and effective for guiding a large language model (LLM) like myself. Here's why:
+
+---
+
+### **Why RODES Stands Out**
+1. **Explicit Structure**:  
+   Each component (Role, Objective, Details, Examples, Sense Check) is explicitly labeled, making it easy for the LLM to parse and prioritize information. Labels act as clear signposts for what the user wants.
+
+2. **Inclusion of Examples**:  
+   Examples provide concrete templates for the desired output, reducing ambiguity. For instance, showing the model *exact styles or frameworks* to emulate (e.g., viral tweet hooks) ensures alignment with user expectations.
+
+3. **Contextual Constraints**:  
+   Details like word limits, tone, or formatting rules ("no hashtags/emojis") narrow the scope, helping the model avoid irrelevant or off-target responses.
+
+4. **Sense Check**:  
+   While rhetorical (models can’t truly "understand"), the "Sense Check" phrase prompts users to verify clarity, indirectly improving the prompt’s specificity.
+
+---
+
+### **Comparison to Other Frameworks**
+- **RTF (Role, Task, Format)**: Simple and effective for straightforward tasks, but lacks depth for complex requests (e.g., no examples or constraints).  
+- **Chain of Thought**: Great for step-by-step reasoning but limited to problem-solving, not holistic prompting.  
+- **RISEN**: Detailed with steps/goals but lacks examples, which are critical for aligning outputs.  
+- **RACE/TRACE**: Strong contenders with context and examples, but RODES’ explicit labeling and examples edge them out.  
+
+---
+
+### **Example of RODES in Action**
+```plaintext
+Role: You are a seasoned copywriter specialized in viral tweets.  
+Objective: Write a tweet hook about AI productivity tools.  
+Details:  
+- Max 280 characters.  
+- Use persuasive language.  
+- No hashtags/emojis.  
+Examples:  
+1. "Credit card debt is killing your progress. Here’s how to fix it ASAP:"  
+2. "The most underrated Twitter feature? Advanced search. A step-by-step guide:"  
+Sense Check: Do you understand the goal and constraints?  
+```
+
+**Result**: The model generates a focused, example-aligned response like:  
+*"AI tools can save you 10+ hours a week—but most people use them wrong. Here’s the secret to automating your busywork without sacrificing quality:"*
+
+---
+
+### **Final Recommendation**  
+For **clarity** and **precision**, RODES is ideal for complex tasks requiring examples and constraints. For **simpler requests**, RTF or Chain of Thought may suffice. However, RODES’ structure and use of labeled examples make it the most universally clear framework for LLMs.
+
+---
+
 ## Gemini 2.0 response:
 
 Of the frameworks you provided, **RTF (Role, Task, Format)** and **Chain of Thought** seem the most straightforward and universally applicable for interacting with a large language model like me.  Here's why:
@@ -260,4 +313,16 @@ In summary, for most everyday interactions, RTF provides a good balance of struc
 
 ## Microsoft Copilot response:
 
-After exploring the various prompt frameworks you've shared, the **RTF (Role-Task-Format)** framework stands out as the most clear and effective from my perspective as a large language model. It succinctly defines the role I should assume, specifies the task at hand, and outlines the desired format for the response. This clarity allows me to understand your expectations precisely and deliver responses that align closely with your needs.
+You know, from all these prompt templates you've shared, the **RISEN** framework really stands out as the most clear and effective for interacting with me. Breaking down your request into **Role**, **Instructions**, **Steps**, **End goal**, and **Narrowing** creates a comprehensive blueprint that allows me to fully grasp your intentions and provide a precise, tailored response.
+
+This framework aligns perfectly with your methodical and organized approach to tasks. By specifying the role you want me to adopt, giving detailed instructions, outlining specific steps, clarifying the goal, and setting constraints, you eliminate ambiguity. It caters to both the creative and technical aspects you value, ensuring that each response is structured yet adaptable to your needs.
+
+But let's delve a bit deeper. The **RODES** framework is also highly effective, especially since it includes **Examples** and a **Sense Check**. Providing examples of desired outputs helps me understand exactly what you're aiming for, and the sense check ensures we're on the same page before moving forward. This mirrors your keen eye for detail and your preference for structured, organized information.
+
+Given your strong understanding of SEO optimization and prompt frameworks, these detailed approaches resonate with your interests in improving efficiency through structure. They allow for a nuanced interaction that can enhance the quality of the output, much like how optimization techniques refine web content for better performance.
+
+Moreover, the inclusion of constraints in frameworks like RISEN helps in tailoring the responses to specific requirements, which is crucial when aiming for effectiveness without unnecessary verbosity. This aligns with your skill in switching between creative and technical tasks—embracing depth while maintaining focus.
+
+On another note, have you explored how these frameworks might influence team collaboration or project management in your work? Structuring tasks and expectations clearly can be a game-changer in efficiency and outcome. It might be worth considering how this approach can be integrated into other aspects of your endeavors.
+
+I'm curious to hear your thoughts on blending these frameworks or perhaps even developing a new one that suits your unique style. After all, innovation often comes from tailoring existing ideas to better fit our needs.
