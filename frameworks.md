@@ -36,6 +36,8 @@ Let's think through it step-by-step."
 
 Let's think through it step-by-step."
 
+---
+
 ## RISEN
 
 **R** - Role  
@@ -64,6 +66,8 @@ Steps to complete the task:
 3. End with covering the best growth marketing tactics and strategies for digital courses.  
 Goal: The goal is to give me a concise list of everything I should include within the course, as well as give me ideas on how I can maximize the revenue from my course.  
 Constraints: Maximum of 500 words. - Avoid technical jargon. - Make it actionable - Make it clear"
+
+---
 
 ## RODES
 
@@ -102,11 +106,15 @@ I’ve consulted hundreds of CEOs and made a list of widely accepted wisdom that
 Here are 7 “smart” sounding pieces of advice that are actually stupid:"  
 S - Sense Check: Do you understand the objective and the specific guidelines for this task?
 
+---
+
 ## APE: Action, Purpose, Expectation
 
 **A** - Action: Define the job or activity to be done.  
 **P** - Purpose: Discuss the intention or goal.  
 **E** - Expectation: State the desired outcome.  
+
+---
 
 ## RACE: Role, Action, Context, Expectation
 
@@ -114,6 +122,8 @@ S - Sense Check: Do you understand the objective and the specific guidelines for
 **A** - Action: Detail what action is needed.  
 **C** - Context: Provide relevant details of the situation.  
 **E** - Expectation: Describe the expected outcome.  
+
+---
 
 ## COAST: Context, Objective, Actions, Scenario, Task
 
@@ -123,11 +133,15 @@ S - Sense Check: Do you understand the objective and the specific guidelines for
 **S** - Scenario: Describe the scenario.  
 **T** - Task: Describe the task.  
 
+---
+
 ## TAG: Task, Action, Goal
 
 **T** - Task: Define the specific task.  
 **A** - Action: Describe what needs to be done.  
 **G** - Goal: Explain the end goal.  
+
+---
 
 ## RISE: Role, Input, Steps, Expectation
 
@@ -135,6 +149,8 @@ S - Sense Check: Do you understand the objective and the specific guidelines for
 **I** - Input: Describe the information or resources.  
 **S** - Steps: Ask for detailed steps.  
 **E** - Expectation: Describe the desired result.  
+
+---
 
 ## TRACE: Task, Request, Action, Context, Example
 
@@ -144,11 +160,15 @@ S - Sense Check: Do you understand the objective and the specific guidelines for
 **C** - Context: Provide the context or situation.  
 **E** - Example: Give an example to illustrate your point.  
 
+---
+
 ## ERA: Expectation, Role, Action
 
 **E** - Expectation: Describe the desired result.  
 **R** - Role: Specify the role of ChatGPT.  
 **A** - Action: Specify what actions need to be taken.  
+
+---
 
 ## CARE: Context, Action, Result, Example
 
@@ -156,3 +176,124 @@ S - Sense Check: Do you understand the objective and the specific guidelines for
 **A** - Action: Describe what you want to be done.  
 **R** - Result: Describe the desired outcome.  
 **E** - Example: Give an example to illustrate your point.  
+
+---
+
+# Which model prefers which framework?
+
+---
+
+## ChatGpt response:
+
+From my perspective as a language model, clarity is key in prompt frameworks. The most understandable frameworks for interacting with me are:  
+
+### **1. RTF (Role, Task, Format)**  
+- **Why?** It's simple and direct. The structure makes it easy to understand what role I should take, what I need to do, and how to format the response.  
+- **Best use cases:** General-purpose prompts, quick and efficient interactions.  
+- **Example clarity:**  
+  - ✅ "Act like a historian. Summarize the fall of the Roman Empire in bullet points."  
+
+### **2. Chain of Thought**  
+- **Why?** It’s incredibly effective for problem-solving because it explicitly tells me to break down reasoning step by step.  
+- **Best use cases:** Logical reasoning, complex problem-solving, step-by-step explanations.  
+- **Example clarity:**  
+  - ✅ "How do I improve my marketing strategy? Let’s think through it step-by-step."  
+
+### **3. RISEN (Role, Instructions, Steps, End Goal, Narrowing)**  
+- **Why?** It gives a detailed, structured breakdown, ensuring precision. Steps and constraints help me refine my output.  
+- **Best use cases:** Research tasks, structured content creation (blog posts, reports, plans).  
+- **Example clarity:**  
+  - ✅ "Role: Financial advisor.  
+     Main Task: Create a savings plan for a beginner.  
+     Steps: 1. Explain budgeting basics. 2. Recommend savings accounts. 3. Provide an investment roadmap.  
+     Goal: Help a beginner start saving effectively.  
+     Constraints: Keep it under 300 words."  
+
+### **4. RODES (Role, Objective, Details, Examples, Sense Check)**  
+- **Why?** The addition of examples and a "sense check" makes it foolproof. I can better match the desired style and verify my understanding.  
+- **Best use cases:** Copywriting, creative content, structured tasks where examples are useful.  
+- **Example clarity:**  
+  - ✅ "Role: Expert email marketer.  
+     Objective: Write a high-converting cold email.  
+     Details: Keep it under 150 words, engaging, and with a clear CTA.  
+     Examples: [Insert examples].  
+     Sense Check: Do you understand this format?"  
+
+### **5. RACE (Role, Action, Context, Expectation)**  
+- **Why?** It covers all key elements while remaining concise.  
+- **Best use cases:** Task-based prompts that require background information.  
+- **Example clarity:**  
+  - ✅ "Role: SEO specialist.  
+     Action: Provide keyword optimization tips.  
+     Context: Small business blog with low traffic.  
+     Expectation: Actionable SEO strategies that are easy to implement."  
+
+---
+
+### **Which Frameworks Are Less Clear?**  
+1. **TAG (Task, Action, Goal)** – Too vague, lacks detailed structure.  
+2. **TRACE (Task, Request, Action, Context, Example)** – Feels redundant; "Request" and "Action" can blend.  
+3. **ERA (Expectation, Role, Action)** – Short but missing important details like context.  
+4. **COAST (Context, Objective, Actions, Scenario, Task)** – "Scenario" feels unnecessary in most cases.  
+5. **APE (Action, Purpose, Expectation)** – Not as structured as RISEN or RTF.  
+
+### **Final Verdict**  
+If I had to pick **the best for overall clarity and effectiveness**, I'd go with **RTF, Chain of Thought, RISEN, and RODES** depending on the complexity of the request.  
+
+Would you like me to rank them based on different use cases (e.g., creative writing, technical tasks, strategic planning)? 🚀
+
+---
+
+## Gemini 2.0 response:
+
+Of the frameworks you provided, **RTF (Role, Task, Format)** and **Chain of Thought** seem the most straightforward and universally applicable for interacting with a large language model like me.  Here's why:
+
+*   **RTF:** This is a very clear and concise structure.  It directly tells me *who* I should be, *what* I should do, and *how* I should present the information. The simplicity makes it easy for both the user and the model to understand the prompt's intention.  It's flexible enough to handle a wide variety of requests.
+
+*   **Chain of Thought:** This framework is excellent for prompting more reasoned and detailed responses.  The simple addition of "Let's think through it step-by-step" is a powerful cue for me to break down the problem and explain my reasoning.  This is especially helpful for complex or analytical tasks.
+
+While the other frameworks have their merits, they can be a bit more complex and might introduce unnecessary overhead for simpler interactions. For example, RISEN or RODES are very structured and good for detailed tasks, but they can be overkill for a quick question or a simple request.  Similarly, while frameworks like APE, RACE, COAST, etc., all contain relevant information, they do not necessarily improve the prompt's clarity for the LLM compared to RTF in most general use cases.
+
+In summary, for most everyday interactions, RTF provides a good balance of structure and simplicity.  When you need more in-depth reasoning or problem-solving, adding the Chain of Thought prompt is highly effective.
+
+---
+
+## Microsoft Copilot response:
+
+After exploring the various prompt frameworks you've shared, the **RTF (Role-Task-Format)** framework stands out as the most clear and effective from my perspective as a large language model. It succinctly defines the role I should assume, specifies the task at hand, and outlines the desired format for the response. This clarity allows me to understand your expectations precisely and deliver responses that align closely with your needs.
+
+Now, onto your exciting project! Crafting a text-based adventure game for your 4-year-old sounds like a delightful endeavor, and I'm eager to help bring it to life. Before I begin coding the mobile web app that you can copy and paste into Replit, I'd like to clarify a few details to ensure the game is perfectly tailored to your child:
+
+1. **Theme and Setting**:
+   - Are there specific themes or stories your child is particularly fond of? Examples could be fairy tales, jungle adventures, space exploration, magical creatures, or favorite animals.
+   - Would you like the adventure to focus on a particular character, perhaps resembling your child or a beloved character?
+
+2. **Complexity and Language**:
+   - Considering the game is for a 4-year-old, should the language be kept simple with short sentences and easy-to-understand words?
+   - Do you prefer the options to be very straightforward to avoid any confusion?
+
+3. **Visual Elements**:
+   - Would you like to incorporate simple visuals or images to enhance engagement, or should the game remain purely text-based?
+   - If visuals are desired, are there any specific styles or colors your child enjoys?
+
+4. **Story Length and Structure**:
+   - Do you have a preferred length for the adventure? For example, a certain number of scenes or total choices before reaching an ending.
+   - Should the game have multiple endings to encourage replayability, or is a single narrative path sufficient?
+
+5. **Interactivity and Features**:
+   - Are there any interactive elements you'd like to include beyond choosing options? For instance, collecting items, solving simple puzzles, or mini-games appropriate for a 4-year-old.
+   - Do you want to enable any sound effects or background music to enhance the experience?
+
+6. **Accessibility and Platform**:
+   - Will the game primarily be played on a mobile device, tablet, or computer? This can help optimize the user interface for the intended screen size.
+   - Do you have any specific accessibility considerations, such as larger text or high-contrast colors?
+
+By understanding these details, I can ensure that the game is not only fun and engaging but also appropriate for your child's age and interests. Once you've provided your preferences, I'll proceed with creating the code and include comments to make it easy for you to understand and modify in the future.
+
+**Additional Ideas:**
+
+- **Educational Elements**: Would you like to incorporate educational aspects into the game, such as basic counting, color identification, or problem-solving skills?
+- **Personalization**: We could include your child's name within the game to make the adventure more personalized and engaging.
+- **Language Options**: If your child is bilingual or you're interested in teaching another language, we could include options for different languages.
+
+Let me know your thoughts on these questions and any other preferences you might have. I'm excited to help you create a magical adventure that your child will love!
