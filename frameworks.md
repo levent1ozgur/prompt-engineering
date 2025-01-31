@@ -181,9 +181,9 @@ S - Sense Check: Do you understand the objective and the specific guidelines for
 
 # Which model prefers which framework?
 
-i asked:
+#### Question:
 
-"i want you to examine these prompt template framework and tell me the most clear to understand to YOU as a large language model. For example which template understandable if i use you to interact with you."
+"I want you to examine these prompt template frameworks and tell me which one is the clearest to understand for YOU as a large language model. For example, which template is the most understandable when I use it to interact with you?"
 
 ---
 
