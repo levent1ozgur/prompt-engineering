@@ -183,7 +183,7 @@ S - Sense Check: Do you understand the objective and the specific guidelines for
 
 ---
 
-## ChatGpt response:
+## ChatGPT response:
 
 From my perspective as a language model, clarity is key in prompt frameworks. The most understandable frameworks for interacting with me are:  
 
@@ -297,7 +297,7 @@ For **clarity** and **precision**, RODES is ideal for complex tasks requiring ex
 
 ---
 
-## Gemini 2.0 response:
+## Gemini response:
 
 Of the frameworks you provided, **RTF (Role, Task, Format)** and **Chain of Thought** seem the most straightforward and universally applicable for interacting with a large language model like me.  Here's why:
 
