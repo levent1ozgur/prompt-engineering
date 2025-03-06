@@ -16,6 +16,29 @@ This is the jack-of-all-trades prompt and can be used for most use cases, even n
 
 "Act like a life coach with 30 years of experience in mentoring. Give me a plan to improve my work-life balance in table format."
 
+##GRWC Framework
+
+**GOAL** 
+**RETURN FORMAT**
+**WARNINGS**
+**CONTEXT DUMP**
+
+**Example:**
+
+"I want a list of the best medium-length hikes within two hours of San Francisco.
+
+Each hike should provide a cool and unique adventure, and be lesser known.
+
+For each hike, return the name of the hike as I'd find it on AllTrails, then provide the starting address of the hike, the ending address of the hike, distance, drive time, hike duration, and what makes it a cool and unique adventure.
+
+Return the top 3.
+
+Be careful to make sure that the name of trail is correct, that it actually exists, and that the time is correct.
+
+---
+
+For context: my girlfriend and i hike a ton! we've done pretty much all of the local SF hikes, whether that's presidio or golden gate park. we definitely want to get out of town -- we did mount tam pretty recently, the whole thing from the beginning of the stairs to stinson - - it was really long and we are definitely in the mood for something different this weekend! ocean views would still be nice. we love delicious food. one thing i loved about the mt tam hike is that it ends with a celebration (Arriving in town to breakfast!) The old missile silos and stuff near Discovery point is cool but I've just done that hike probably 20x at this point. We won't be seeing eachother for a few weeks (she has to stay in LA for work) so the uniqueness here really counts."
+
 ## Chain of thought 
 
 The chain of thought prompt framework is one that improves LLM’s reasoning by telling AI to go through a problem step-by-step.
