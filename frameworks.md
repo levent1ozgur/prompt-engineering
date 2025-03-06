@@ -16,7 +16,7 @@ This is the jack-of-all-trades prompt and can be used for most use cases, even n
 
 "Act like a life coach with 30 years of experience in mentoring. Give me a plan to improve my work-life balance in table format."
 
-##GRWC Framework
+## GRWC Framework
 
 **GOAL** 
 **RETURN FORMAT**
